@@ -1,0 +1,7 @@
+{
+  "name": "capacitor-firebase-authentication-demo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">capacitor-firebase-authentication-demo</string>
+    <string name="title_activity_main">capacitor-firebase-authentication-demo</string>
+    <string name="package_name">daiware.dpupps.com</string>
+    <string name="custom_url_scheme">daiware.dpupps.com</string>
+    <string name="facebook_app_id">1501423050210862</string>
+    <string name="fb_login_protocol_scheme">fb1501423050210862</string>
+    <string name="facebook_client_token">4799001ab08ffafb5902706bb4c92938</string>
+</resources>
